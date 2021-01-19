@@ -1,0 +1,69 @@
+body {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 100px;
+    background-color: #141f40;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.box1 {  /* 緑の箱*/
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+    float: left;
+}
+
+.box2 {  /* 黄青橙赤の箱*/
+    width: 250px;
+    float: right;
+}
+
+.box3 {
+    float: right;
+}
+
+.box4 {  /* 橙の箱*/
+    width: 100px;
+    height: 150px;
+    background-color: #ff9e6d;
+    float: right;
+}
+
+.box5 {  /* 黄青の箱*/
+    width: 150px;
+    float: right;
+}
+
+.box6 {  /* 黄の箱*/
+    width: 150px;
+    height: 50px;
+    background-color: #dbd400;
+    float: left;
+}
+
+.box7 {  /* 青の箱 */
+    width: 150px;
+    height: 100px;
+    background-color: #0093b7;
+    float: left;
+}
+
+.box8 {  /* 赤の箱 */
+    width: 250px;
+    height: 100px;
+    background-color: #8c2727;
+    float: right;
+}
+
+.footer {
+    height: 100px;
+    background-color: #d98d30;
+}
