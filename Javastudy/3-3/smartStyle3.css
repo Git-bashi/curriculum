@@ -1,0 +1,35 @@
+@media screen and (max-width: 479px) {
+    body {
+        width: 200px;
+    }
+
+    .header {
+        height: 210px;
+    }
+
+    .ulbox1 {
+        right: 70px;
+
+    }
+
+    .box1 {
+        float: none;
+    }
+
+    .left {
+        width: 200px;
+    }
+
+    .right {
+        width: 200px;
+    }
+
+    .ulbox2 {
+        top: 20px;
+        left: 30px;
+    }
+
+    .footer {
+        width: 200px;
+    }
+}
