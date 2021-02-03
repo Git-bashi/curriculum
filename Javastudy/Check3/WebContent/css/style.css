@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.textline {
+    border: 1px solid #DCDCDC;
+}
+
+.form {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.header {
+    height: 35px;
+    background-color: grey;
+    width: 100%;
+}
+
+.label {
+	display: inline-block;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.Hjsp {
+	display: inline-block;
+    color: black;
+    font-size: 10px;
+}
+
+.footer {
+    height: 35px;
+    background-color: grey;
+    width: 100%;
+}
